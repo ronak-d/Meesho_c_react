@@ -1,4 +1,4 @@
-## Meesho Clone [Meesho Clone](https://glittering-bavarois-1e7ddd.netlify.app/) [![Website https://meesho-by-nitrogen.netlify.app](https://glittering-bavarois-1e7ddd.netlify.app/)](https://glittering-bavarois-1e7ddd.netlify.app/)
+## Meesho Clone(https://glittering-bavarois-1e7ddd.netlify.app/) [![Website https://meesho-by-nitrogen.netlify.app](https://glittering-bavarois-1e7ddd.netlify.app/)](https://glittering-bavarois-1e7ddd.netlify.app/)
 Meesho is an indian e-commerce company, We tried core functionalities of Meesho during Third Construct Week held after completition of Unit 4 in Masai.
 
 ## Technologies used :-
